@@ -34,6 +34,9 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
 
 * Week 1 - Tuesday August 1 - 1-3pm - MATH 126
   * [course.fast.ai](http://course.fast.ai/)
-    * Getting Started
-    * Lesson 1
-    * Lesson 2
+    * Getting Started: Setting up AWS
+    * Lesson 1: Adapt the VGG16 neural network to recognize images of cats and dogs
+    * Lesson 2: The anatomy of a neural network 
+* Week 2 - Tuesday August 8 - 1-3pm - MATH 126
+  * [course.fast.ai](http://course.fast.ai/)
+    * A ddeper look into the architecture of VGG16 using Keras
